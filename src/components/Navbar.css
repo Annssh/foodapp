@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&display=swap');
+body {
+  background-image: url('../images/download.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.navbar {
+  backdrop-filter: blur(10px);
+}
+
+* {
+  font-family: 'Belanosima', sans-serif;
+}
+.setcontent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
